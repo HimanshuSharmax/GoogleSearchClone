@@ -2,6 +2,9 @@
 
 It is the clone of the Google where you can search for anything and it will show the exactly same result we've used the Google Custom API through which we made this project, this is full responsive.
 
+## Live Preview-
+You can check out <a href="https://googlecloneapi.netlify.app/">live-preview</a>.
+
 ## Technologies used-
 - React.js
 - Tailwind CSS
